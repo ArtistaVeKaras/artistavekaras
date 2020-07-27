@@ -1,4 +1,4 @@
-<p align="center"><img src="http://studiopixel.in/wp-content/uploads/2017/11/senior-front-end-developer-openings-1.gif" alt="Hi, I'm Claudio 👋 I'm a 🚀 Portuguese QA Engineer 🚀 I ❤️ Happy Hardcore ❤️"></p>
+<p align="center"><img src="http://studiopixel.in/wp-content/uploads/2017/11/senior-front-end-developer-openings-1.gif" width="600" height="300" alt="Hi, I'm Claudio 👋 I'm a 🚀 Portuguese QA Engineer 🚀 I ❤️ Happy Hardcore ❤️"></p>
 
 <h2 align="center">Hello tech World<img width="30px" src="https://github.com/KKVANONYMOUS/kkvanonymous/blob/master/gifs/Hi.gif">, I'm Claudio</a></h2>
 <p align="center">
