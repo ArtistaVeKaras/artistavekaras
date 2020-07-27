@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media1.giphy.com/media/JpGRoqJXTqv4f1mrJb/100.webp" alt="Hi, I'm Claudio 👋 I'm a 🚀 Portuguese QA Engineer 🚀 I ❤️ Happy Hardcore ❤️"></p>
+<p align="center"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.technologyreview.com%2Fi%2Fimages%2Fwebp.net-gifmaker-2.gif&f=1&nofb=1" alt="Hi, I'm Claudio 👋 I'm a 🚀 Portuguese QA Engineer 🚀 I ❤️ Happy Hardcore ❤️"></p>
 
 <h2 align="center">Hello tech World! <img width="30px" src="https://github.com/KKVANONYMOUS/kkvanonymous/blob/master/gifs/Hi.gif">, I'm Claudio</a></h2>
 <p align="center">
