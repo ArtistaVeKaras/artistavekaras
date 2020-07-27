@@ -1,11 +1,11 @@
 <p align="center"><img src="http://studiopixel.in/wp-content/uploads/2017/11/senior-front-end-developer-openings-1.gif" alt="Hi, I'm Claudio 👋 I'm a 🚀 Portuguese QA Engineer 🚀 I ❤️ Happy Hardcore ❤️"></p>
 
-<h2 align="center">Hello tech World! <img width="30px" src="https://github.com/KKVANONYMOUS/kkvanonymous/blob/master/gifs/Hi.gif">, I'm Claudio</a></h2>
+<h2 align="center">Hello tech World<img width="30px" src="https://github.com/KKVANONYMOUS/kkvanonymous/blob/master/gifs/Hi.gif">, I'm Claudio</a></h2>
 <p align="center">
   <samp>
  <p align="center">
   <samp>
-  I'm a QA Engineer and a Tech Enthusiast who loves everything which involves code💻. I love to explore all fields related to programming especially which involves Java & Java Script.Apart from being a Tech enthusiastic,I am a music🎧 and fashion lover👖 who also loves to play footbal with friends.
+  I'm a QA Engineer and a Tech Enthusiast who loves everything which involves code💻. I love to explore all fields related to automation testing especially tools such as Selenium Cypress and WebdriverIO.Apart from being a Tech enthusiastic,I am a music🎧 and fashion lover👖 who also loves to play footbal with friends.
   </samp>
 </p>
 
@@ -19,7 +19,6 @@
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/react.svg" alt="Twitter" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/chrome.svg" alt="Twitter" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/cloud.svg" alt="Twitter" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/datascience.svg" alt="Twitter" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/aws.svg" alt="Twitter" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg" alt="Twitter" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/gcp.svg" alt="Twitter" style="vertical-align:top; margin:4px">
