@@ -1,4 +1,4 @@
-<img src="https://github.com/CyrisXD/CyrisXD/raw/master/bio.gif" alt="Hey there, I'm Claudio. I'm QA Engineer, passion for tech music and fashion">
+<p><img src="https://github.com/matyo91/matyo91/raw/master/assets/github.gif" alt="Hi, I'm Claudio 👋 I'm a 🚀 Portuguese QA Engineer 🚀 I ❤️ Happy Hardcore ❤️"></p>
 
 <h2 align="center">Hello tech World! <img width="30px" src="https://github.com/KKVANONYMOUS/kkvanonymous/blob/master/gifs/Hi.gif">, I'm Claudio</a></h2>
 <p align="center">
