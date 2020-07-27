@@ -11,9 +11,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-🏡 [website][website] **|** 
-📺 [youtube][youtube] **|** 
-📷 [instagram][instagram] **|** 
-👔 [linkedin][linkedin]
-
-[linkedin]: https://linkedin.com/in/bradgarropy
+[linkedin]: https://linkedin.com/in/claudio-cor/
