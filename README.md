@@ -1,5 +1,4 @@
-<--![banner](https://user-images.githubusercontent.com/23727056/87433896-78ae9700-c607-11ea-9ca6-9cdbe3f67998.jpg)-->
-<img src="https://github.com/CyrisXD/CyrisXD/raw/master/bio.gif" alt="Hey there, I'm Cyris. I'm a software developer, a maker and infosec enthusiast. Check out my work">
+<img src="https://github.com/CyrisXD/CyrisXD/raw/master/bio.gif" alt="Hey there, I'm Claudio. I'm QA Engineer, passion for tech music and fashion">
 
 <h2 align="center">Hello tech World! <img width="30px" src="https://github.com/KKVANONYMOUS/kkvanonymous/blob/master/gifs/Hi.gif">, I'm Claudio</a></h2>
 <p align="center">
