@@ -11,4 +11,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+👔 [linkedin][linkedin]
+
 [linkedin]: https://linkedin.com/in/claudio-cor/
